@@ -1,0 +1,19 @@
+/* wrapper  = max-width:540; margin:auto */
+@media only screen and (max-width: 767.98px){/* wrapper  = max-width:540; margin:auto */
+
+}
+@media only screen and (min-width: 991.88px){/* wrapper = ; margin:auto */
+
+}
+/* wrapper  = max-width:720; margin:auto */
+@media only screen and (min-width: 768px){/* wrapper  = max-width:720; margin:auto */
+
+}
+/* wrapper = max-width:920; margin:auto */
+@media only screen and (min-width: 992px){/* wrapper = max-width:920; margin:auto */
+
+}
+/* wrapper = max-width:1200; margin:auto  */
+@media only screen and (min-width: 1200px){/* wrapper = max-width:1200; margin:auto  */
+    
+}

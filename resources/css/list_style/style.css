@@ -1,0 +1,121 @@
+
+
+/*  */
+/* text */
+/*  */
+.text1{font-size: 24px;font-weight: 500; margin-bottom: 8px;}
+.text2{font-size: 20px;font-weight: 500; margin-bottom: 8px;}
+.text3{font-size: 16px;font-weight: 400; margin-bottom: 8px; line-height: 24px;}
+
+.text-primary  {color: blue;}
+.text-secondary{color: blue;font-size:16px; }
+.text-teritary{font-size:14px; }
+.text-success  {color: green;}
+.text-danger   {color: red;}
+.text-warrning {color: yellow;}
+.text-info     {color: blue;}
+
+.text-body         {color: blue;  font: auto;}
+.text-body-secondry{color: brown; font: auto;}
+.text-body-teritary{color: blue;  font: auto;}
+
+.text-white{color: white;}
+.text-dark {color: darkgray;}
+.text-black{color: black;}
+/*  */
+/* Button */
+/*  */
+/* spaces */
+
+/* .btn{width: auto; height: auto; padding-block: auto;padding-inline: auto; line-height: auto;margin: auto;} */
+.btn-primary  {padding-inline: 20px; border:1 solid #6750A4;
+               border-radius: 8px; line-height: 45px; background-color: #6750A4; color: #FFFFFF;}
+.btn-secondary{padding:auto; padding-inline: auto; border:1 solid #888;
+               border-radius: 8px; line-height: 40px; background-color: blue; color: white;}
+.btn-outlin   {padding-inline: 20px; border:1px solid #6750A4;
+    border-radius: 8px; line-height: 45px; background-color: inherit; color: #6750A4;}
+.btn-fab      {width: 0px; height:0px; padding:auto; padding-inline: auto; border:1 solid #888;
+               border-radius: 12px; line-height: auto; background-color: blue; color: white;}
+.btn-link     {width: 0px; height:0px; padding:auto; padding-inline: auto; border:1 solid #888;
+               border-radius: 12px; line-height: auto; background-color: blue; color: white;}
+.btn-icon     {width: 0px; height:0px; padding:auto; padding-inline: auto; border:1 solid #888;
+               border-radius: 12px; line-height: auto; background-color: blue; color: white;}
+
+.btn-primary:hover  {background-color: #4F378B; color: #EADDFF;}
+.btn-secondary:hover{background-color: darkblue; color: white;}
+.btn-outlin:hover   {background-color: #4F378B; color: #EADDFF;}
+.btn-fab:hover      {background-color: blue; color: white;}
+.btn-link:hover     {background-color: blue; color: white;}
+.btn-icon:hover     {background-color: blue; color: white;}
+
+.btn-primary:active  {background-color: black; color: white;}
+.btn-secondary:active{background-color: darkblue; color: white;}
+.btn-outlin:active   {background-color: blue; color: white;}
+.btn-fab:active      {background-color: blue; color: white;}
+.btn-link:active     {background-color: blue; color: white;}
+.btn-icon:active     {background-color: blue; color: white;}
+
+.btn-primary:focus  {background-color:aquamarine; color: white;}
+.btn-secondary:focus{background-color: blue; color: white;}
+.btn-outlin:focus   {background-color: blue; color: white;}
+.btn-fab:focus      {background-color:aquamarine; color: white;}
+.btn-link:focus     {background-color: blue; color: white;}
+.btn-icon:focus     {background-color: blue; color: white;}
+
+
+
+.btn-primary:disabled  {background-color:rgba(0, 0, 0, 0.422); color:white;}
+.btn-secondary:disabled{background-color: blue; color: white;}
+.btn-outlin:disabled   {background-color: blue; color: white;}
+.btn-fab:disabled      {background-color: blue; color: white;}
+.btn-link:disabled     {background-color: blue; color: white;}
+.btn-icon:disabled     {background-color: blue; color: white;}
+/*  */
+/* Button */
+/*  */
+.primary{background-color: #6750A4;}
+.on-primary{color: #FFFFFF;}
+
+.primary-container{background-color: #4F378B;}
+.on-primary-container{color: #EADDFF;}
+
+.secondary{background-color: #625B71;}
+.on-secondary{color: #FFFFFF;}
+
+.secondary-container{background-color: #E8DEF8;}
+.on-secondary-container{color: #1D192B;}
+
+.tertiary{background-color: #7D5260;}
+.on-tertiary{color: #FFFFFF;}
+
+.tertiary-container{background-color: #FFD8E4;}
+.on-tertiary-container{color: #31111D;}
+
+/* Outlin for hr and input, card, list ... border */
+.outline{color: #79747E;}
+.outline-variant{color: #CAC4D0;}
+
+.background{background-color: #FEF7FF;}
+.on-background{color: #1D1B20;}
+
+/* Surface for main background */
+.surface-dim{background-color: #DED8E1;}
+.surface{background-color: #FEF7FF;}
+.surface-bright{background-color: #FEF7FF;}
+
+.on-surface{color: #1D1B20;}
+
+/* Surface-continar for cards, nav, list .... */
+.surface-container-lowest{background-color: #FFFFFF;}
+.surface-container-low{background-color: #F7F2FA;}
+.surface-container{background-color: #F3EDF7;}
+.surface-container-high{background-color: #ECE6F0;}
+.surface-container-highest{background-color: #E6E0E9;}
+
+.on-surface-container{color: #1D1B20;}
+
+.surface-variant{background-color: #E7E0EC;}
+.on-surface-variant{color: #1D1B20;}
+
+
+

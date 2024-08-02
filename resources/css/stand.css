@@ -1,0 +1,40 @@
+.row{
+    display: flex;
+    flex-flow: row wrap;
+    align-content: center;
+    gap: 6px;
+
+}
+.col{
+    display: flex;
+    flex-flow: column wrap;
+    gap: 6px;
+
+}
+
+.f1{
+    font-size: 12pt;
+}
+.f2{
+    font-size: 16pt;
+}
+.f3{
+    font-size: 18pt;
+}
+.f3{
+    font-size: 24pt;
+}
+
+
+
+input,select{
+    width: 100%;
+    font-size: 16px;
+    background-color: #f9f9ff;
+    line-height:40px ;
+    border:none;
+    border-radius: 4px;
+    padding: 0px 20px;
+    
+    
+}

@@ -1,0 +1,17 @@
+.footer .list-box .list-item .support-text-list{
+    flex-flow: column;
+  }
+
+  .footer article .list-box{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+  }
+  .footer article .list-box .list-item{
+    width: 260px;
+
+  }
+  .footer .copyright-box .list-box .list-item{
+    width: auto;
+    
+  }
