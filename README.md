@@ -11,17 +11,19 @@
 
 ## Purpose
 
-I built this  job portal using PHP to practice core programming concepts and, html, css, js
+I built this  job portal using PHP Laravel to practice concepts ,route,controller, model, migration, etc.
 
-for fun
+Style for fun with just css, no front end framework used. **I'm trying to build one**.
+
+*Current Status: in prograss*
 
 ### Features
 
-Admin: approve new employer, job seeker and manage users, news, feedbacks.
+**- Admin:** approve new employer, job seeker and manage users, news, feedbacks.
 
-Job seeker:Register, login, manage profile, Search jobs, apply for job, manage application status
+**- Job seeker:** Register, login, manage profile, Search jobs, apply for job, manage application status
 
-Employer:Register, login, manage profile, post and manage jobs, manage candidates applications 
+**- Employer:** Register, login, manage profile, post and manage jobs, manage candidates applications 
 
 # Job list
 ![image](https://github.com/user-attachments/assets/a8bf6eb4-a1ad-478c-ac37-f79f93bfd146)
